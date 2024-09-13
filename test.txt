@@ -3,3 +3,5 @@ Hi
 Welcome to git
 
 This is content from dev branch
+
+now im gng 2 use this file for rebase
